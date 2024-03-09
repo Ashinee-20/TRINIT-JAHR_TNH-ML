@@ -1,5 +1,5 @@
 # TRINIT-JAHR_TNH-ML
-Automated Road Damage Detection for Infrastructure Maintenance using YOLO v8
+### Automated Road Damage Detection for Infrastructure Maintenance using YOLO v8
 
 
 We employed the Czech Road Damage Dataset for our project on automated road damage detection for infrastructure maintenance. The dataset comprises four classes: D00 for Longitudinal Crack, D10 for Transverse Crack, D20 for Alligator Crack, and D40 for Pothole. Annotations provided in XML format were converted to YOLO format using Roboflow.
