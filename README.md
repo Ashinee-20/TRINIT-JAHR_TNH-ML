@@ -6,7 +6,6 @@ We employed the Czech Road Damage Dataset for our project on automated road dama
 
 To facilitate training, we converted the provided XML format annotations to YOLO format using the Roboflow tool. Subsequently, the training dataset was split into an 80:20 ratio for training and validation purposes.
 
-For model training, the YOLOv8 architecture was employed, specifically utilizing the yolov8x.pt file. We chose yolov8x because of it's huge parameter size of 68.2M parameters and architecture size employed during training. The results of this training process are as follows:
+For model training, the YOLOv8 architecture was employed, specifically utilizing the yolov8x.pt file. We chose yolov8x because of it's huge parameter size of 68.2M parameters and architecture size employed during training. 
 
 
-Google drive link for the video: 
