@@ -11,3 +11,6 @@ For model training, the YOLOv8 architecture was employed, specifically utilizing
 Link for the best weights file: https://drive.google.com/drive/folders/15MzzdN5KipBYKt5wx7urGs1_dPhNl-D6?usp=sharing
 
 
+### Image of the Web App
+
+![Image of the Web App](app.jpg)
